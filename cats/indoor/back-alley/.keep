@@ -1,5 +1,3 @@
-cd cats
-cd indoor
-cd back-alley
-mv painting-elephants.jpg
+mv cats/indoor/back-alley/painting-elephants.jpg
+elephants/painters
 (lab root)>elephants>painters
