@@ -1,3 +1,2 @@
-mv cats/painting-elephants.jpg
-elephants/painters
-(lab root)>elephants>painters
+mv painting-elephants.jpg
+cd
